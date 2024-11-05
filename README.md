@@ -1,6 +1,4 @@
-# django-basic-buk
-
-# Django Basics Repository
+# Django Basic Buk
 
 Welcome to the **Django Basics** repository! This repository is designed as a step-by-step guide for learning and mastering the basics of Django. Whether you're just starting with Django or looking to brush up on foundational skills, this repo provides a clear, organized structure to help you progress confidently. I use this to teach Django and also for me to improve my skills
 
